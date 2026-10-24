@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Google OAuth 2.0 Authentication
 
 A full-stack web application that allows users to sign in securely using their Google account. Built with React, Node.js, Express, and SQLite.
@@ -163,3 +164,7 @@ http://localhost:5173
 ## Author
 
 Developed as a full-stack authentication project to learn React, Node.js, Google OAuth 2.0, Express sessions, and SQLite.
+=======
+# google-oauth-login
+Google OAuth 2.0 authentication using React, Node.js, Express, and SQLite
+>>>>>>> 3987a538484293a04e5f3103b540b8ef894bff48
